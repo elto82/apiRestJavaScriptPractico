@@ -1,0 +1,19 @@
+{
+  "name": "apirestjavascriptpractico",
+  "version": "1.0.0",
+  "description": "curso práctico de consumo de API REST con javaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elto82/apiRestJavaScriptPractico.git"
+  },
+  "author": "elto.82@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elto82/apiRestJavaScriptPractico/issues"
+  },
+  "homepage": "https://github.com/elto82/apiRestJavaScriptPractico#readme"
+}
